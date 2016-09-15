@@ -1,0 +1,107 @@
+M003/Marc André/T.Dion/V0002ABDF
+M014/Patrick/Bégin/V0002ABDF
+M004/Emmanuel/Ouellet-Sabourin/V0002ABDF
+M015/Jean Philippe/Robitaille-Larratt/V0002ABDF
+M0220/Dara/Long/V0002ABDF
+M005/Steve Darel Jr/Mbiele Miengue/V0002ABDF
+M0201/Hippolyte/Glaus/V0002ABDF
+M0205/Olivier/Castro-Perrier/V0002ABDF
+M006/Hugo/Belhumeur/V0002ABDF
+M0200/Alaa/Akdeh/V0002ABDF
+M001/Alexandre/Sasseville/V0002ABDF
+M0220/Dara/Long/V0002AQJG
+M005/Steve Darel Jr/Mbiele Miengue/V0002AQJG
+M0201/Hippolyte/Glaus/V0002AQJG
+M0205/Olivier/Castro-Perrier/V0002AQJG
+M006/Hugo/Belhumeur/V0002AQJG
+M0200/Alaa/Akdeh/V0002AQJG
+M001/Alexandre/Sasseville/V0002AQJG
+M0225/Gabriel/Lamarre/V0002AQJG
+M007/Franck/Jorge/V0002AQJG
+M0102/Sophie/Bossé/V0002AQJG
+M002/Vincent/Bissonnette/V0002AQJG
+M008/Maxim/Bernard/V0002AQJG
+M0230/Thierry/Jutras/V0002AQJG
+M018/Alex/Fournier-Thibaudeau/V0002ARG
+M011/Louis/Contant/V0002ARG
+M0231/Louis-Simon/Mc Nicoll/V0002ARG
+M010/Olga/Sharomova/V0002ARG
+M0260/Catalin Mihai/Sandolache/V0002ARG
+M012/Julie/Sauvé/V0002ARG
+M0101/Pierre-Paul/Pouliot/V0002ARG
+M021/Samuel/Tremblay/V0002ARG
+M0253/Serge-Paul/Poirier/V0002ARG
+M013/Anne-Marie/St-Georges/V0002CERA
+M0100/Marc-André/Saintonge/V0002CERA
+M022/Thomas/Côté/V0002CERA
+M001/Alexandre/Sasseville/NASAM
+M0225/Gabriel/Lamarre/NASAM
+M007/Franck/Jorge/NASAM
+M0102/Sophie/Bossé/NASAM
+M002/Vincent/Bissonnette/NASAM
+M008/Maxim/Bernard/NASAM
+M0230/Thierry/Jutras/NASAM
+M018/Alex/Fournier-Thibaudeau/NASAM
+M011/Louis/Contant/NASAM
+M010/Olga/Sharomova/NASAM
+M0260/Catalin Mihai/Sandolache/NASAM
+M012/Julie/Sauvé/NASAM
+M0101/Pierre-Paul/Pouliot/NASAM
+M021/Samuel/Tremblay/NASAM
+M0253/Serge-Paul/Poirier/NASAM
+M014/Patrick/Bégin/NASCB
+M004/Emmanuel/Ouellet-Sabourin/NASCB
+M015/Jean Philippe/Robitaille-Larratt/NASCB
+M0220/Dara/Long/NASCB
+M005/Steve Darel Jr/Mbiele Miengue/NASCB
+M0201/Hippolyte/Glaus/NASMB
+M0205/Olivier/Castro-Perrier/NASMB
+M006/Hugo/Belhumeur/NASMB
+M0200/Alaa/Akdeh/NASMB
+M001/Alexandre/Sasseville/NASMB
+M0225/Gabriel/Lamarre/NASMB
+M007/Franck/Jorge/NASMB
+M0102/Sophie/Bossé/NASMB
+M002/Vincent/Bissonnette/NASMB
+M008/Maxim/Bernard/NASMB
+M0230/Thierry/Jutras/NASMB
+M005/Steve Darel Jr/Mbiele Miengue/V0002DESSP
+M0201/Hippolyte/Glaus/V0002DESSP
+M0205/Olivier/Castro-Perrier/V0002DESSP
+M006/Hugo/Belhumeur/V0002DESSP
+M0200/Alaa/Akdeh/V0002DESSP
+M001/Alexandre/Sasseville/V0002DESSP
+M0225/Gabriel/Lamarre/V0002DESSP
+M007/Franck/Jorge/V0002DESSP
+M0102/Sophie/Bossé/V0002DESSP
+M002/Vincent/Bissonnette/V0002DESSP
+M004/Emmanuel/Ouellet-Sabourin/V0002DESSO
+M015/Jean Philippe/Robitaille-Larratt/V0002DESSO
+M0220/Dara/Long/V0002DESSO
+M005/Steve Darel Jr/Mbiele Miengue/V0002DESSO
+M0201/Hippolyte/Glaus/V0002DESSO
+M0205/Olivier/Castro-Perrier/V0002DESSO
+M008/Maxim/Bernard/V0002PHOT1
+M0230/Thierry/Jutras/V0002PHOT1
+M018/Alex/Fournier-Thibaudeau/V0002PHOT1
+M011/Louis/Contant/V0002PHOT1
+M0231/Louis-Simon/Mc Nicoll/V0002PHOT1
+M010/Olga/Sharomova/V0002PHOT1
+M0200/Alaa/Akdeh/V0002PHOT2
+M001/Alexandre/Sasseville/V0002PHOT2
+M005/Steve Darel Jr/Mbiele Miengue/V0002PLON
+M0201/Hippolyte/Glaus/V0002PLON
+M0205/Olivier/Castro-Perrier/V0002PLON
+M006/Hugo/Belhumeur/V0002PLON
+M0200/Alaa/Akdeh/V0002PLON
+M001/Alexandre/Sasseville/V0002PLON
+M0253/Serge-Paul/Poirier/KADEB
+M009/José/Rodriguez/KADEB
+M0240/Sylvain/Rogers/KADEB
+M013/Anne-Marie/St-Georges/KADEB
+M0100/Marc-André/Saintonge/KADEB
+M022/Thomas/Côté/KADEB
+M012/Julie/Sauvé/YOPI1
+M0101/Pierre-Paul/Pouliot/YOPI1
+M021/Samuel/Tremblay/YOPI1
+M0253/Serge-Paul/Poirier/YOPI1

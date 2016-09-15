@@ -1,0 +1,19 @@
+Natation : ab-dos-forme/V0002ABDF/16
+Natation : aquajogging/V0002AQJG/16
+Argile : découverte/V0002ARG/6
+Céramique/V0002CERA/6
+Cours spécialisé Croix-rouge Assistant-moniteur/NASAM/10
+Cours spécialisé Sauvetage Croix de bronze/NASCB/15
+Cours spécialisé Sauvetage Médaille de bronze/NASMB/15
+Cours spécialisé Sauvetage Sauveteur national/NASSN/12
+Dessin et peinture/V0002DESSP/10
+Dessin : observation, exploration et découverte/V0002DESSO/10
+Dessin et couleurs/V0002DESSC/10
+Photographie 1 : introduction/V0002PHOT1/6
+Photographie 2 : pratique de diverses techniques/V0002PHOT2/6
+Natation : plongeon/V0002PLON/12
+Peinture aquarelle/V0002PAQU/6
+Peinture huile/V0002PHUI/6
+Karaté débutant/KADEB/15
+Yoga-Pilates niveau 1/YOPI1/15
+Yoga-Pilates niveau 2/YOPI2/15
